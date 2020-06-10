@@ -28,6 +28,6 @@ le nom du serveur</p>
 <p> <?= $IP ?> </p>
 <p> <?= $Agent ?> </p>
 
-</div>
+
 </body>
 </html>

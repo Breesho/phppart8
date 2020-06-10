@@ -25,6 +25,6 @@ Il faudra afficher le contenu de ces variables sur la deuxième page.</p>
 </p>
 
 
-</div>
+
 </body>
 </html>

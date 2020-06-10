@@ -29,6 +29,6 @@ Il faudra afficher le contenu de ces variables sur la deuxième page.</p>
 <a href="user.php"> Page Suivante </a>
 
 
-</div>
+
 </body>
 </html>

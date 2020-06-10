@@ -35,6 +35,5 @@ if (isset($_COOKIE["User-name"]) AND isset($_COOKIE["User-password"] )) {
 
 
 
-</div>
 </body>
 </html>
